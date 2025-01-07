@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "TGSwiftSignalKit"
+  spec.name         = "TGSwiftSignalKitTG"
   spec.version      = "1.0.1"
   spec.summary      = "Submodoules"
 
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "submodoules for tg"
 
-  spec.homepage     = "https://github.com/yintao910816/TGSwiftSignalKit"
+  spec.homepage     = "https://github.com/yintao910816/TGSwiftSignalKitTG"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/yintao910816/TGSwiftSignalKit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/yintao910816/TGSwiftSignalKitTG.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
